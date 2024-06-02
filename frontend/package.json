@@ -43,7 +43,7 @@
     "popper.js": "^1.16.1",
     "tableexport.jquery.plugin": "^1.10.20",
     "vxe-table": "^3.4.6",
-    "wangeditor": "^4.7.9",
+    "wangeditor": "^4.7.12",
     "xe-utils": "^3.4.0"
   },
   "devDependencies": {
